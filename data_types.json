@@ -1,0 +1,1 @@
+{"clientid": "int64", "age": "int64", "workclass": "int32", "temp": "int64", "education": "int32", "edunum": "int64", "maritalstatus": "int32", "occupation": "int32", "relationship": "int32", "race": "int32", "sex": "int32", "capitalgain": "int64", "capitalloss": "int64", "hoursperweek": "int64", "country": "int32", "income": "int32"}
